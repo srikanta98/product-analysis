@@ -61,8 +61,8 @@ const Chart = () => {
                 <Line type="monotone" dataKey={"revenue"} stroke="#ff7300" />
             </ComposedChart>
             <LineChart width={800} height={500} data={data}>
-                <Line dataKey={'investment'}></Line>
-                <Line dataKey={'revenue'}></Line>
+                <Line dataKey={'month'}></Line>
+                <Line dataKey={'sell'}></Line>
                 <XAxis dataKey="name"></XAxis>
                 <Tooltip />
                 <YAxis></YAxis>
