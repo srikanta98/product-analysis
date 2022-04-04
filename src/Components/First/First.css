@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;900&family=Mochiy+Pop+P+One&display=swap');
+*{
+    font-family: 'Mochiy Pop P One', sans-serif;
+}
+.pop h1 {
+    position: relative;
+    left: 191px;
+}
+.pop p {
+    position: relative;
+    left: 191px;
+}
+.button {
+    position: relative;
+    left: 191px;
+    border: none;
+    border-radius: none;
+}
+.rev {
+    text-align: center;
+    position: relative;
+    left: 50px;
+    background-color: beige;
+    display: inline-block;
+    width: 40%;
+    position: relative;
+    left: 569px;
+    top: 30px;
+    border-radius: 50px;
+  }
