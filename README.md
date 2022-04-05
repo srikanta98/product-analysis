@@ -1,6 +1,6 @@
 # Assignment for react R0uter
 
--This project was really cool [Create React App](https://github.com/facebook/create-react-app).
+-This project was really cool.Click the following link to go to my project [Netlify link](https://monumental-scone-f2ca78.netlify.app/).
 
 ## Scripts for this project
 
